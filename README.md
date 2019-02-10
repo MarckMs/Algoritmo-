@@ -11,6 +11,6 @@ Ingresar cantidad de créditos que proporciona el usuario
 Leer y asignar num2
 Verificar que num2>=num1
 12.1 Si, ir a 7
-12.2 No, mostrar MENSAJE
+12.2 No, mostrar MENSAJE E IR A 18
 Compra 
 FIN
